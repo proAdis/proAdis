@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @proAdis
-- 👀 I’m interested in syber
+- 👀 I’m interested in cyber
 - 🌱 I’m currently learning data structer nodejs c c# java js and stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
