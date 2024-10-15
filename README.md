@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @proAdis
-- 👀 I’m interested in cyber
-- 🌱 I’m currently learning data structer nodejs c c# java js and stuff
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Cyber and multiple technologies I love to expend my knowledge in tech
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on freelance backend projects
 - 📫 How to reach me ...
 
 <!---
